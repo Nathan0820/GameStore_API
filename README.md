@@ -60,7 +60,6 @@ The API will be running on `https://localhost:5001` (or a similar port).
    ```
 3. Run the frontend development server:
    ```sh
-t
    npm run dev
    ```
 The React application will be available at `http://localhost:3000` (or a similar port) and will connect to the backend API.
